@@ -1,0 +1,13 @@
+opencollection: 1.0.0
+
+info:
+  name: testCollection
+bundled: false
+extensions:
+  bruno:
+    ignore:
+      - node_modules
+      - .git
+    git:
+      autoCommitPush: true
+      autoPull: true
