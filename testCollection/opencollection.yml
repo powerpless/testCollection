@@ -20,5 +20,5 @@ extensions:
       - node_modules
       - .git
     git:
-      autoCommitPush: true
+      autoCommitPush: false
       autoPull: false
